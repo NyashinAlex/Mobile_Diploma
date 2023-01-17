@@ -17,30 +17,6 @@ import static com.codeborne.selenide.logevents.SelenideLogger.addListener;
 
 public class TestBase {
 
-//    @BeforeAll
-//    public static void setup() {
-//        Configuration.browser = BrowserstackMobileDriver.class.getName();
-//        Configuration.browserSize = null;
-//    }
-//
-//    @BeforeEach
-//    void startDriver() {
-//        addListener("AllureSelenide", new AllureSelenide());
-//        open();
-//    }
-//
-//    @AfterEach
-//    public void tearDown() {
-//        String sessionId = sessionId().toString();
-//
-//        Attach.screenshotAs("Скин в конце теста");
-//        Attach.pageSource();
-//
-//        closeWebDriver();
-//
-//        Attach.video(sessionId);
-//    }
-
     static MobileConfig config = ConfigFactory.create(MobileConfig.class, System.getProperties());
 
     @BeforeAll
