@@ -74,7 +74,6 @@ gradle clean test
 </p>
 
 ## <img width="4%" title="Telegram" src="images/logo/Telegram.svg"> Уведомления в Telegram с использованием бота
-После завершения сборки специальный бот, созданный в <code>Telegram</code>, автоматически обрабатывает и отправляет сообщение с отчетом о прогоне тестов.
 
 <p align="center">
-<img title="Telegram Notifications" src="images/screenshot/telegram.png">
+<img title="Telegram Notifications" src="images/screenshot/telegra.png">
