@@ -50,6 +50,7 @@ gradle clean test
 -DdeviceHost=local
 ```
 
+
 ## <img width="4%" title="Jenkins" src="images/logo/Jenkins.svg"> Запуск тестов в Jenkins
 
 
