@@ -76,4 +76,4 @@ gradle clean test
 ## <img width="4%" title="Telegram" src="images/logo/Telegram.svg"> Уведомления в Telegram с использованием бота
 
 <p align="center">
-<img title="Telegram Notifications" src="images/screenshot/telegra.png">
+<img title="Telegram Notifications" src="images/screenshot/telegram.png">
